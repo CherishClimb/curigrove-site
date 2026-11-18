@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84" role="img" aria-label="Curigrove logo">
+  <rect width="84" height="84" rx="27" fill="#dbe6d5"/>
+  <path d="M41 56V33" stroke="#314c3d" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M41 43c-8-1-14-7-15-15 10-2 17 3 18 11M41 35c2-10 8-16 18-16 1 11-4 18-17 20" fill="#68916d" stroke="#314c3d" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M27 61c11-5 23-5 34 0" stroke="#668969" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="25" cy="47" r="3" fill="#d9a866"/><circle cx="60" cy="46" r="3" fill="#d9a866"/>
+</svg>

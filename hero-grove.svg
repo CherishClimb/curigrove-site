@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="630" viewBox="0 0 680 630" fill="none" role="img" aria-label="A grove of trees">
+  <defs>
+    <clipPath id="clip"><rect x="0" y="0" width="680" height="630" rx="33"/></clipPath>
+    <linearGradient id="sky" x1="180" y1="0" x2="450" y2="630"><stop stop-color="#E9EDE2"/><stop offset="1" stop-color="#DCE6D6"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <path fill="url(#sky)" d="M0 0H680V630H0z"/>
+    <circle cx="494" cy="144" r="53" fill="#F5D69C" opacity=".9"/>
+    <g fill="#fff" opacity=".65"><ellipse cx="132" cy="123" rx="50" ry="13"/><ellipse cx="155" cy="114" rx="23" ry="18"/><ellipse cx="93" cy="104" rx="22" ry="16"/><ellipse cx="547" cy="250" rx="38" ry="11"/><ellipse cx="569" cy="239" rx="21" ry="17"/></g>
+    <path d="M-30 402C95 306 170 337 291 401c115 61 260-93 420-12v260H-30z" fill="#B5CCA9"/>
+    <path d="M-40 491c150-113 286-86 374-27 135 93 200-27 389 0v190H-40z" fill="#84AA85"/>
+    <path d="M-30 579c123-49 243-44 374-8 127 36 220-29 372-21v105H-30z" fill="#668F6D"/>
+    <path d="M275 640c41-94 68-124 112-145-53-23-92-61-124-79" stroke="#DFD3AD" stroke-width="48" stroke-linecap="round" opacity=".9"/>
+    <path d="M275 640c41-94 68-124 112-145-53-23-92-61-124-79" stroke="#EDE4C8" stroke-width="25" stroke-linecap="round"/>
+    <!-- center tree trunk -->
+    <path d="M342 448c7-80 8-146-2-218" stroke="#6B5946" stroke-width="25" stroke-linecap="round"/>
+    <path d="M344 326l-43-52M345 301l42-44" stroke="#6B5946" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="341" cy="198" r="97" fill="#658F70"/>
+    <circle cx="285" cy="230" r="76" fill="#75A27B"/>
+    <circle cx="403" cy="226" r="77" fill="#81AB83"/>
+    <circle cx="320" cy="154" r="79" fill="#83AA82"/>
+    <circle cx="386" cy="166" r="64" fill="#709B78"/>
+    <circle cx="352" cy="204" r="75" fill="#91B48A" opacity=".55"/>
+    <!-- left smaller tree -->
+    <path d="M126 485l4-132" stroke="#705742" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="125" cy="323" r="61" fill="#91AE7F"/>
+    <circle cx="92" cy="350" r="49" fill="#B3C495"/>
+    <circle cx="161" cy="352" r="47" fill="#8DAE7C"/>
+    <circle cx="126" cy="290" r="49" fill="#A6BE88"/>
+    <!-- right tree -->
+    <path d="M552 483V348" stroke="#715C46" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="547" cy="320" r="61" fill="#7A9F7A"/>
+    <circle cx="510" cy="335" r="48" fill="#9AB78E"/>
+    <circle cx="583" cy="342" r="48" fill="#7B9D7D"/>
+    <circle cx="550" cy="285" r="47" fill="#9DBB91"/>
+    <!-- leaves and details -->
+    <g fill="#E1C98C"><circle cx="298" cy="194" r="6"/><circle cx="398" cy="211" r="6"/><circle cx="349" cy="126" r="6"/><circle cx="113" cy="338" r="5"/><circle cx="565" cy="302" r="6"/></g>
+    <g stroke="#335F48" stroke-width="3" stroke-linecap="round" opacity=".65"><path d="M59 523l-9-18m9 18 11-20m-11 20v-29"/><path d="M478 540l-9-15m9 15 10-18m-10 18v-26"/><path d="M628 499l-8-18m8 18 9-17m-9 17v-27"/></g>
+    <g fill="#F2D3A2"><circle cx="88" cy="555" r="7"/><circle cx="100" cy="554" r="6"/><circle cx="90" cy="545" r="6"/><circle cx="510" cy="570" r="8"/><circle cx="520" cy="570" r="7"/><circle cx="514" cy="558" r="7"/></g>
+    <g fill="#EFF5E9"><circle cx="209" cy="497" r="3"/><circle cx="216" cy="489" r="3"/><circle cx="223" cy="499" r="3"/><circle cx="610" cy="584" r="3"/><circle cx="616" cy="575" r="3"/></g>
+  </g>
+</svg>
